@@ -1,0 +1,5 @@
+﻿  CppTest.cpp
+CppTest.obj : error LNK2019: unresolved external symbol _line referenced in function _main
+CppTest.obj : error LNK2019: unresolved external symbol _closegraph referenced in function _main
+CppTest.obj : error LNK2019: unresolved external symbol _initgraph referenced in function _main
+D:\Desktop\CppTest\Debug\CppTest.exe : fatal error LNK1120: 3 unresolved externals
